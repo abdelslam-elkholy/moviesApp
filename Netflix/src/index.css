@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.css-rppfq7-MuiButtonBase-root-MuiPaginationItem-root {
+  color: aliceblue !important;
+  font-size: 1.5rem !important;
+}
+.css-rppfq7-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  background-color: #1976d2 !important;
+  font-size: 1.5rem !important;
+}
